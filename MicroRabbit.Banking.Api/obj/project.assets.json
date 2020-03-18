@@ -1397,6 +1397,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MicroRabbit.Banking.Domain": "1.0.0",
+          "MicroRabbit.Domain.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.2",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.2"
@@ -1441,6 +1442,8 @@
         "dependencies": {
           "MediatR": "8.0.1",
           "MicroRabbit.Domain.Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.2",
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "5.1.2"
         },
@@ -1459,6 +1462,8 @@
           "MicroRabbit.Banking.Data": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Bus": "1.0.0",
+          "MicroRabbit.Transfer.Application": "1.0.0",
+          "MicroRabbit.Transfer.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.2"
         },
         "compile": {
@@ -1466,6 +1471,49 @@
         },
         "runtime": {
           "bin/placeholder/MicroRabbit.Infra.IoC.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.2",
+          "Microsoft.EntityFrameworkCore.InMemory": "3.1.2"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Data.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
         }
       }
     }
@@ -5353,6 +5401,21 @@
       "type": "project",
       "path": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
       "msbuildProject": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj"
+    },
+    "MicroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj"
+    },
+    "MicroRabbit.Transfer.Data/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj"
+    },
+    "MicroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

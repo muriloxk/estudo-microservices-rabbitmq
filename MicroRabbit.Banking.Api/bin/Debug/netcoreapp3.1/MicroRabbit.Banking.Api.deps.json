@@ -1314,6 +1314,7 @@
       "MicroRabbit.Banking.Data/1.0.0": {
         "dependencies": {
           "MicroRabbit.Banking.Domain": "1.0.0",
+          "MicroRabbit.Domain.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.2",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.2"
@@ -1352,6 +1353,8 @@
         "dependencies": {
           "MediatR": "8.0.1",
           "MicroRabbit.Domain.Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.2",
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "5.1.2"
         },
@@ -1368,6 +1371,8 @@
           "MicroRabbit.Banking.Data": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Bus": "1.0.0",
+          "MicroRabbit.Transfer.Application": "1.0.0",
+          "MicroRabbit.Transfer.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.2"
         },
         "runtime": {
@@ -1377,28 +1382,41 @@
           "MicroRabbit.Infra.IoC.dll": {}
         }
       },
-      "MicroRabbit.Transfer.Application/1.0.0.0": {
+      "MicroRabbit.Transfer.Application/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0"
+        },
         "runtime": {
-          "MicroRabbit.Transfer.Application.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MicroRabbit.Transfer.Application.dll": {}
+        },
+        "compile": {
+          "MicroRabbit.Transfer.Application.dll": {}
         }
       },
-      "MicroRabbit.Transfer.Domain/1.0.0.0": {
+      "MicroRabbit.Transfer.Data/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.2",
+          "Microsoft.EntityFrameworkCore.InMemory": "3.1.2"
+        },
         "runtime": {
-          "MicroRabbit.Transfer.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MicroRabbit.Transfer.Data.dll": {}
+        },
+        "compile": {
+          "MicroRabbit.Transfer.Data.dll": {}
         }
       },
-      "MicroRabbit.Transfer.Data/1.0.0.0": {
+      "MicroRabbit.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
-          "MicroRabbit.Transfer.Data.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MicroRabbit.Transfer.Domain.dll": {}
+        },
+        "compile": {
+          "MicroRabbit.Transfer.Domain.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3690,18 +3708,18 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MicroRabbit.Transfer.Application/1.0.0.0": {
-      "type": "reference",
+    "MicroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MicroRabbit.Transfer.Domain/1.0.0.0": {
-      "type": "reference",
+    "MicroRabbit.Transfer.Data/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MicroRabbit.Transfer.Data/1.0.0.0": {
-      "type": "reference",
+    "MicroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },

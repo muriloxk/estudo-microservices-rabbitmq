@@ -1310,6 +1310,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "MicroRabbit.Banking.Domain": "1.0.0",
+          "MicroRabbit.Domain.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.2",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.2"
@@ -1354,6 +1355,8 @@
         "dependencies": {
           "MediatR": "8.0.1",
           "MicroRabbit.Domain.Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.2",
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "5.1.2"
         },
@@ -1382,6 +1385,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Transfer.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.2",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.2"
@@ -1396,6 +1400,9 @@
       "MicroRabbit.Transfer.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
         },
