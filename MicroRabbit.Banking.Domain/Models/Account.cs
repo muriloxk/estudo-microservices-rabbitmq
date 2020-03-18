@@ -1,5 +1,5 @@
-﻿using MicroRabbit.Banking.Domain.Interfaces;
-using MicroRabbit.Domain.Core.Entities;
+﻿using MicroRabbit.Domain.Core.Entities;
+using MicroRabbit.Domain.Interfaces;
 
 namespace MicroRabbit.Banking.Domain.Models
 {

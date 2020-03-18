@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {}
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
         "projectName": "MicroRabbit.Domain.Core",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }

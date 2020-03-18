@@ -13,6 +13,8 @@ namespace MicroRabbit.Banking.Data.Repository
         public AccountRepository(BankingDbContext ctx)
         {
             _ctx = ctx;
+            //EF Core seed memory;
+            _ctx.Database.EnsureCreated();
         }
 
         public IEnumerable<Account> GetAccounts()

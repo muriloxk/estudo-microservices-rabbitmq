@@ -1,0 +1,11 @@
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.deps.json
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.csproj.CopyComplete
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb

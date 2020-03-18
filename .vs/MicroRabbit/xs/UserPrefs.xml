@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{50DA34DD-9FC5-4E59-8620-1867324A3078}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Transfer.Domain/EventHandlers/TransferEventHandler.cs">
+    <Files>
+      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="113" Column="10" />
+      <File FileName="MicroRabbit.Banking.Api/Controllers/BankingController.cs" Line="16" Column="46" />
+      <File FileName="MicroRabbit.Transfer.Api/Startup.cs" Line="83" Column="1" />
+      <File FileName="MicroRabbit.Infra.IoC/DependencyContainer.cs" Line="31" Column="87" />
+      <File FileName="MicroRabbit.Transfer.Domain/EventHandlers/TransferEventHandler.cs" Line="9" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroRabbit" expanded="True">
+            <Node name="Infra.Bus" expanded="True">
+              <Node name="MicroRabbit.Infra.Bus" expanded="True" />
+            </Node>
+            <Node name="Infra.IoC" expanded="True">
+              <Node name="MicroRabbit.Infra.IoC" expanded="True" />
+            </Node>
+            <Node name="Microservices" expanded="True">
+              <Node name="Banking" expanded="True">
+                <Node name="Api" expanded="True">
+                  <Node name="MicroRabbit.Banking.Api" expanded="True">
+                    <Node name="Controllers" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Transfer" expanded="True">
+                <Node name="Api" expanded="True">
+                  <Node name="MicroRabbit.Transfer.Api" expanded="True" />
+                </Node>
+                <Node name="Domain" expanded="True">
+                  <Node name="MicroRabbit.Transfer.Domain" expanded="True">
+                    <Node name="EventHandlers" expanded="True">
+                      <Node name="TransferEventHandler.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Api.MicroRabbit.Transfer.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Application/Services/AccountService.cs" relfile="MicroRabbit.Banking.Application/Services/AccountService.cs" line="29" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Api/Controllers/BankingController.cs" relfile="MicroRabbit.Banking.Api/Controllers/BankingController.cs" line="28" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="31" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="55" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="85" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="68" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="100" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Domain/EventHandlers/TransferEventHandler.cs" relfile="MicroRabbit.Transfer.Domain/EventHandlers/TransferEventHandler.cs" line="13" column="1" />
+      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Api.MicroRabbit.Banking.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

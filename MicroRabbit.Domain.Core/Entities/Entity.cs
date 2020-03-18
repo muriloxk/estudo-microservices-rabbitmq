@@ -6,11 +6,7 @@ namespace MicroRabbit.Domain.Core.Entities
 {
     public abstract class Entity
     {
-        public Guid Id { get; private set; }
+        public int Id { get; set; }
 
-        protected Entity()
-        {
-            Id = new Guid();
-        }
     }
 }

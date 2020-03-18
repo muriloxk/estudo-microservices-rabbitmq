@@ -1,4 +1,4 @@
-﻿namespace MicroRabbit.Banking.Domain.Interfaces
+﻿namespace MicroRabbit.Domain.Interfaces
 {
     public interface IAggregateRoot
     {

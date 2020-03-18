@@ -1,4 +1,5 @@
 ﻿using MicroRabbit.Banking.Domain.Models;
+using MicroRabbit.Domain.Interfaces;
 using System.Collections.Generic;
 
 namespace MicroRabbit.Banking.Domain.Interfaces

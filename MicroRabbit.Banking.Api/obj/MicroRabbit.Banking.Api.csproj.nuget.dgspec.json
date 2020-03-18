@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {}
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj",
         "projectName": "MicroRabbit.Banking.Api",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Api\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Api/MicroRabbit.Banking.Api.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Api/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj"
               }
             }
           }
@@ -77,35 +78,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
         "projectName": "MicroRabbit.Banking.Application",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Application/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
               }
             }
           }
@@ -133,35 +135,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj",
         "projectName": "MicroRabbit.Banking.Data",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Data\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Data/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
               }
             }
           }
@@ -209,35 +212,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
         "projectName": "MicroRabbit.Banking.Domain",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Domain\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Domain/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
               }
             }
           }
@@ -265,28 +269,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
         "projectName": "MicroRabbit.Domain.Core",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -327,35 +332,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
         "projectName": "MicroRabbit.Infra.Bus",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.Bus\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
               }
             }
           }
@@ -397,44 +403,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj": {
+    "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+        "projectUniqueName": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
         "projectName": "MicroRabbit.Infra.IoC",
-        "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
-        "packagesPath": "C:\\Users\\crmall\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.IoC\\obj\\",
+        "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
+        "packagesPath": "/Users/murilosanches/.nuget/packages/",
+        "outputPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.IoC/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\crmall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/murilosanches/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Users\\crmall\\Documents\\newNugety": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Application/MicroRabbit.Banking.Application.csproj"
               },
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj"
               },
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
               },
-              "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj": {
-                "projectPath": "C:\\Users\\crmall\\source\\repos\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj"
+              "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj": {
+                "projectPath": "/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj"
               }
             }
           }
@@ -468,7 +475,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }

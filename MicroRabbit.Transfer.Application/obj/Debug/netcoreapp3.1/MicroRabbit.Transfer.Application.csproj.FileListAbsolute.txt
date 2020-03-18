@@ -1,0 +1,14 @@
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.deps.json
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.dll
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.pdb
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.dll
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domain.pdb
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.AssemblyInfo.cs
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.csproj.CopyComplete
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.dll
+/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Transfer.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Application.pdb

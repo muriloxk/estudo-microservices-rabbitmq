@@ -1,4 +1,5 @@
-﻿using MicroRabbit.Banking.Domain.Models;
+﻿using System;
+using MicroRabbit.Banking.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace MicroRabbit.Banking.Data.Context
@@ -13,12 +14,8 @@ namespace MicroRabbit.Banking.Data.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Account>()
-                    .HasNoKey();
-
-            modelBuilder.Entity<Account>()
-                         .HasData( new Account() { AccountType = "Checking", AccountBalance = 0 },
-                                   new Account() { AccountType = "Savings", AccountBalance = 0 });
-
+                        .HasData(new Account() { Id = 1, AccountType = "Checking", AccountBalance = 100 },
+                                 new Account() { Id = 2, AccountType = "Savings",  AccountBalance = 100 });
         }
 
         public DbSet<Account> Accounts { get; set; }
