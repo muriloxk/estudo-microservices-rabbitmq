@@ -1,50 +1,43 @@
 ﻿<Properties StartupConfiguration="RunAll">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.Bus/RabbitMQBus.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Banking.Application/Models/AccountTransfer.cs">
     <Files>
-      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="34" Column="1" />
-      <File FileName="MicroRabbit.Banking.Api/Controllers/BankingController.cs" Line="28" Column="1" />
-      <File FileName="MicroRabbit.Transfer.Api/Startup.cs" Line="83" Column="1" />
-      <File FileName="MicroRabbit.Infra.IoC/DependencyContainer.cs" Line="37" Column="28" />
-      <File FileName="MicroRabbit.Transfer.Domain/EventHandlers/TransferEventHandler.cs" Line="22" Column="34" />
-      <File FileName="MicroRabbit.Transfer.Data/Repository/TransferRepository.cs" Line="15" Column="43" />
-      <File FileName="MicroRabbit.Transfer.Domain/Interfaces/ITransferRepository.cs" Line="11" Column="14" />
-      <File FileName="MicroRabbit.Transfer.Data/Context/TransferDbContext.cs" Line="9" Column="10" />
-      <File FileName="MicroRabbit.Banking.Application/Services/AccountService.cs" Line="30" Column="1" />
+      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="47" Column="10" />
+      <File FileName="MicroRabbit.Banking.Api/Controllers/BankingController.cs" />
+      <File FileName="MicroRabbit.Transfer.Api/Startup.cs" />
+      <File FileName="MicroRabbit.Infra.IoC/DependencyContainer.cs" />
+      <File FileName="MicroRabbit.Transfer.Domain/EventHandlers/TransferEventHandler.cs" />
+      <File FileName="MicroRabbit.Transfer.Data/Repository/TransferRepository.cs" />
+      <File FileName="MicroRabbit.Transfer.Domain/Interfaces/ITransferRepository.cs" />
+      <File FileName="MicroRabbit.Transfer.Data/Context/TransferDbContext.cs" />
+      <File FileName="MicroRabbit.Banking.Application/Services/AccountService.cs" Line="8" Column="1" />
+      <File FileName="MicroRabbit.Banking.Application/Interfaces/IAccountService.cs" Line="13" Column="1" />
+      <File FileName="MicroRabbit.Banking.Application/Models/AccountTransfer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MicroRabbit" expanded="True">
-            <Node name="Domain" expanded="True">
-              <Node name="MicroRabbit.Domain.Core" expanded="True" />
-            </Node>
-            <Node name="Infra.Bus" expanded="True">
-              <Node name="MicroRabbit.Infra.Bus" expanded="True">
-                <Node name="RabbitMQBus.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Infra.Bus" expanded="True" />
             <Node name="Infra.IoC" expanded="True" />
             <Node name="Microservices" expanded="True">
               <Node name="Banking" expanded="True">
                 <Node name="Api" expanded="True">
-                  <Node name="MicroRabbit.Banking.Api" expanded="True">
-                    <Node name="Controllers" expanded="True" />
-                  </Node>
+                  <Node name="MicroRabbit.Banking.Api" expanded="True" />
                 </Node>
                 <Node name="Application" expanded="True">
                   <Node name="MicroRabbit.Banking.Application" expanded="True">
-                    <Node name="Services" expanded="True" />
+                    <Node name="Models" expanded="True">
+                      <Node name="AccountTransfer.cs" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
+                <Node name="Data" expanded="True" />
+                <Node name="Domain" expanded="True" />
               </Node>
               <Node name="Transfer" expanded="True">
                 <Node name="Api" expanded="True" />
-                <Node name="Data" expanded="True">
-                  <Node name="MicroRabbit.Transfer.Data" expanded="True">
-                    <Node name="Dependencies" expanded="True" />
-                    <Node name="Context" expanded="True" />
-                  </Node>
-                </Node>
+                <Node name="Application" expanded="True" />
+                <Node name="Data" expanded="True" />
                 <Node name="Domain" expanded="True" />
               </Node>
             </Node>
@@ -58,13 +51,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="58" column="1" />
-      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="88" column="1" />
-      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="71" column="1" />
-      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="103" column="1" />
-      <Breakpoint file="/Users/murilosanches/Projects/MicroRabbit/estudo-microservices-rabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="47" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="RunAll" Name="RunAll">
